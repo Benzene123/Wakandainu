@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    background-color: black;
+}
+.title {
+    padding-left: 30px;
+    background-color: #F7DC6F;
+}
+.one {
+    line-height: 2.5rem;
+    padding: 30px;
+    background-color: black;
+    color: white;
+}
+img {
+      max-width: 100%;
+      height: auto;
+      border-radius: 10px;
+}
+
+
+.two {
+    padding: 30px;
+    background-color: black;
+    color: white;
+    list-style-position: outside;
+    line-height: 1.5rem;
+}
+.heading {
+    padding-bottom: 30px;
+}
+footer {
+    padding-top: 5px;
+    background-color: #F7DC6F;
+    color: black;
+    text-align: center;
+    padding-bottom: 5px;
+
+}
+p {
+    font-family: 'ubuntu' 'sans-serif';
+    font-weight: 2.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Righteous', cursive;
+}
